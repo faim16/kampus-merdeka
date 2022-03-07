@@ -1,5 +1,0 @@
-kampus-merdeka
-saya disini sudah belajar
--html
--css
--js
